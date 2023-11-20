@@ -1,0 +1,87 @@
+.warna1 {
+    background-color: #5c3623;
+}
+
+.warna2 {
+    background-color: #5c3623;
+}
+
+.warna3 {
+    background-color: #5c3623;
+}
+
+.warna4 {
+    background-color: #5c3623;
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/SCARPA!.png');
+} 
+
+.highlighted {
+    height: 250px;
+}
+
+.kategori-sepatu-casual {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/casual.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-sepatu-wanita {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/girl.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-sepatu-pria {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/man.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover {
+    color: #b6895b;
+}
+
+.text-harga{
+    font-size: 20px;
+}
+
+.image-box {
+    height: 250px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: rgba(0,0,0,0.7);
+}
+
+.content-subscribe a {
+    color: #fff;
+}
+
+.banner-produk {
+    height: 35vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/SCARPA!.png');
+    background-position: 50% 35%;
+}
+
+.produk-terkait-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
