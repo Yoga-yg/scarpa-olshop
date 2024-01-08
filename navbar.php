@@ -9,7 +9,7 @@
             <a class="nav-link text-white" href="index.php">Home</a>
         </li>
         <li class="nav-item me-4">
-            <a class="nav-link text-white" href="kategori.php">Tentang Kami</a>
+            <a class="nav-link text-white" href="tentang-kami.php">Tentang Kami</a>
         </li>
         <li class="nav-item me-4">
             <a class="nav-link text-white" href="produk.php">Produk</a>
